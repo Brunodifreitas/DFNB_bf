@@ -10,7 +10,7 @@ MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
 1.0     12/14/2020   BRUNOFREITAS  1. Creation of the Script
-
+2.0	12/16/2020   BRUNOFREITAS  2. Enhancements on the script considering the feedbacks received.
 
 RUNTIME: 
 Approx. 1 min
